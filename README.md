@@ -1,21 +1,26 @@
-### Hi there 👋
+Hi there 👋🏻,
 
-I`m Engineering Student at Delhi Technological University [http://www.dtu.ac.in/]. I am New to Open Source
-You can see what I am currently up to on [nitindhemiwal.me][1]
+I`m Engineering Student at Delhi Technological University. I love coding and I am Exploring Open Source.
+solutions about JavaScript, ReactJS and React-Native. I am exploring other areas of web, mobile and bot development.
+You can see what I am currently up to on [nitindhemiwal.me][1].
 
-###🌱 I’m currently learning
-      : Ruby On Rails
-      : Java[2]
-
-### 📬 Let's get in touch
+## 📬 Let's get in touch
 
 - Twitter: [twitter.com/Dhemiwalnitin][3]
-- Mail: [mailto:dhemiwal.nitin@gmail.com][4]
 - Web: [nitindhemiwal.me][1]
-- LinkedIn: [linkedin.com/in/nitindhemiwal][2]
+- Mail: [nitindhemiwal01@gmail.com][4]
+- LinkedIn: [linkedin.com/in/coderjoel][2]
 
-###⚡ Fun fact:
-      : I am Gamer if u feel like you need a gaming buddy ping me
+## 👷 My online hub 
+
+I am familiar with including **JavaScript**, **ReactJS**, **C++** ,and **NodeJS**.
+
+[1]: https://nitindhemiwal.me/
+[2]: https://www.linkedin.com/in/dhemiwalnitin/
+[3]: https://twitter.com/Dhemiwalnitin   
+[4]: mailto:nitindhemiwal01@gmail.com
+      
+
 <!--
 **zephyr007/zephyr007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
