@@ -9,7 +9,7 @@ You can see what I am currently up to on [nitindhemiwal.me][1].
 - Twitter: [twitter.com/Dhemiwalnitin][3]
 - Web: [nitindhemiwal.me][1]
 - Mail: [nitindhemiwal01@gmail.com][4]
-- LinkedIn: [linkedin.com/in/coderjoel][2]
+- LinkedIn: [linkedin.com/in/nitindhemiwal][2]
 
 ## 👷 My online hub 
 
