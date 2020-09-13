@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 I`m Engineering Student at Delhi Technological University [http://www.dtu.ac.in/]. I am New to Open Source
-You can see what I am currently up to on [nitindhemiwal.me][1].
+You can see what I am currently up to on [nitindhemiwal.me][1]
 
 ###🌱 I’m currently learning
       : Ruby On Rails
-      : Java[2].
+      : Java[2]
 
 ### 📬 Let's get in touch
 
