@@ -1,19 +1,20 @@
 ### Hi there 👋
 
 I`m Engineering Student at Delhi Technological University [http://www.dtu.ac.in/]. I am New to Open Source
+You can see what I am currently up to on [nitindhemiwal.me][1].
 
-##🌱 I’m currently learning
+###🌱 I’m currently learning
       : Ruby On Rails
-      : Java
+      : Java[2].
 
-## 📬 Let's get in touch
+### 📬 Let's get in touch
 
 - Twitter: [twitter.com/Dhemiwalnitin][3]
 - Mail: [mailto:dhemiwal.nitin@gmail.com][4]
 - Web: [nitindhemiwal.me][1]
 - LinkedIn: [linkedin.com/in/nitindhemiwal][2]
 
-##⚡ Fun fact:
+###⚡ Fun fact:
       : I am Gamer if u feel like you need a gaming buddy ping me
 <!--
 **zephyr007/zephyr007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
