@@ -13,7 +13,7 @@ You can see what I am currently up to on [nitindhemiwal.me][1].
 
 ## 👷 My online hub 
 
-I am familiar with including **JavaScript**, **ReactJS**, **C++** ,and **NodeJS**.
+I am familiar with including **JavaScript**, **ReactJS**, **Python**,**C++** ,and **NodeJS**.
       
 ## ⚡ Fun fact
 
