@@ -1,7 +1,7 @@
 ## Hi there 👋🏻,
 
 I`m Engineering Student at Delhi Technological University. I love coding and I am Exploring Open Source.
-solutions about JavaScript, ReactJS and C++ . I am exploring other areas of web, mobile and bot development.
+solutions about JavaScript, ReactJS and C++ .Newbie at JAVA, SpringBoot and MySQL I am exploring other areas of web, mobile and bot development.
 You can see what I am currently up to on [nitindhemiwal.me][1].
 
 ## 📬 Let's get in touch
@@ -13,7 +13,7 @@ You can see what I am currently up to on [nitindhemiwal.me][1].
 
 ## 👷 My online hub 
 
-I am familiar with including **JavaScript**, **ReactJS**, **Python**,**C++** ,and **NodeJS**.
+I am familiar with including **JavaScript**, **ReactJS**, **Python**,**C++**,**JAVA** ,and **NodeJS**.
       
 ## ⚡ Fun fact
 
