@@ -23,7 +23,7 @@ Send me request on EPIC : ZEPHYR007
                    
 You can also checkout my Channel [nitin dhemiwal][5]
 
-[1]: https://nitindhemiwal.me/port_website/
+[1]: https://nitindhemiwal.me/
 [2]: https://www.linkedin.com/in/dhemiwalnitin/
 [3]: https://twitter.com/Dhemiwalnitin   
 [4]: mailto:nitindhemiwal01@gmail.com
