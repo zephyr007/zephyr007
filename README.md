@@ -13,11 +13,11 @@ You can see what I am currently up to on [nitindhemiwal.me][1].
 
 ## 👷 My online hub 
 
-I am familiar with including **JavaScript**, **ReactJS**, **Python**,**C++**,**JAVA** ,and **NodeJS**.
+I am familiar with **JavaScript**, **ReactJS**, **Python**, **C++**,**JAVA**, **SpringBoot**,and **NodeJS**.
       
 ## ⚡ Fun fact
 
-I am Also into Gaming : RPG, Action Adventures, Shooter FPS
+I am Also into Gaming : RPG, Action Adventures, Thriller, Horror,Shooter (FPS,TPS)
 Send me request on EPIC : ZEPHYR007
                    Steam :[dhemiwalnitin/][6]
                    
