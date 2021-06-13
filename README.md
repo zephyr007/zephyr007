@@ -15,7 +15,7 @@ You can see what I am currently up to on [nitindhemiwal.me][1].
 
 I am familiar with **JavaScript**, **ReactJS**, **Python**, **C++**,**JAVA**, **SpringBoot**,and **NodeJS**.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=zephyr007&theme=light&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=zephyr007&theme=dark&show_icons=true)
       
 ## ⚡ Fun fact
 
