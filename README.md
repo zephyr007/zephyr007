@@ -2,7 +2,7 @@
 
 I`m Engineering Student at Delhi Technological University. I love coding and I am Exploring Open Source.
 solutions about JavaScript, ReactJS and C++ .Newbie at JAVA, SpringBoot and MySQL I am exploring other areas of web, mobile and bot development.
-You can see what I am currently up to on [nitindhemiwal.me][1].
+You can see what I am currently up to on [dhemiwalnitin.me][1].
 
 ## 📬 Let's get in touch
 
@@ -25,7 +25,7 @@ Send me request on EPIC : ZEPHYR007
                    
 You can also checkout my Channel [nitin dhemiwal][5]
 
-[1]: https://nitindhemiwal.me/
+[1]: https://dhemiwalnitin.me/
 [2]: https://www.linkedin.com/in/dhemiwalnitin/
 [3]: https://twitter.com/Dhemiwalnitin   
 [4]: mailto:nitindhemiwal01@gmail.com
